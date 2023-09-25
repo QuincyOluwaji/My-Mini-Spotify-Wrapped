@@ -1,2 +1,3 @@
 # My-Mini-Spotify-Wrapped
-A project done using Python and Power Query in Excel to analyze my spotify data
+This is a project that analyzes my Spotify data using Python, Power Query in DExcel and Tableau. The steps taken to complete the project are shown 
+in the jupyter notebook made available. The tableau dashboard can be viewed [here](https://public.tableau.com/app/profile/quincy.oluwaji/viz/MySpotifyAnalysis4/Story1?publish=yes)
